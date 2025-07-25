@@ -1,1 +1,2 @@
 # 40maisamor-site
+sha256:b8983066e9ffc2c9a913abee4dfe695e546a139cf209e7422b52ab4160ea828d
